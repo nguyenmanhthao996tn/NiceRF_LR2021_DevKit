@@ -9,7 +9,7 @@ This repository contains the full PCB design files for the **NiceRF LR2021 Devel
 | **LoRa Module** | [NiceRF LoRa2021](https://www.nicerf.com/lora-module/lora2021.html) |
 | **Storage** | MicroSD Card Slot (SPI) |
 | **Indication** | 2x Programmable LEDs |
-| **Form Factor** | Breadboard friendly / DevKit style |
+| **Form Factor** | Arduino Uno R3 Hat |
 
 # Top View
 
