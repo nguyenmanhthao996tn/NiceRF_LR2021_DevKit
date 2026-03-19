@@ -1,0 +1,40 @@
+Altium Designer Pick and Place Locations
+C:\Users\mtnguyen\workspace\Others\NiceRF_LR2021_DevKit\pcb\NiceRF_LR2021_DevKit\Project Outputs for Free Documents\Generate Files\Pick Place\Pick Place for PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       20/03/26
+Time:       04:04
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R2","RT0402DRE071KL","TopLayer","RESC1005X35X25ML10T10","79.5000mm","96.5000mm","270",""
+"R1","RT0402DRE071KL","TopLayer","RESC1005X35X25ML10T10","81.5000mm","96.5000mm","270",""
+"DS2","LTST-C170KRKT","TopLayer","LTST-C170KRKT_V","79.5000mm","92.5000mm","90","LED Red, 75 mW, 54 mcd, -55 to 85 degC, 2-Pin SMD, RoHS, Tape and Reel"
+"DS1","LTST-S220GKT","TopLayer","LTST-S220GKT_V","81.5000mm","92.5000mm","90","LED Green, 100 mW, 30 mA, -55 to 85 degC, 2-Pin SMD, RoHS, Tape and Reel"
+"U2","MicroSD Slot","BottomLayer","TF-01A","108.4500mm","89.0750mm","180","1.85mm Card Slot MicroSD card (TF card) Self-bouncing SMD SD Card / Memory Card Connector ROHS"
+"U1","LoRa Module","TopLayer","LR2021","100.0000mm","100.0000mm","180","LoRa2021: 160mW Multi-Band Wireless Communication Module"
+"L2","MLZ1005M1R0WT000","TopLayer","FP-MLZ1005-MFG","87.5000mm","114.0500mm","90","Shielded Multilayer Inductor 1uH ±20% 450mA 455mO SMD 0402"
+"L1","MLZ1005M1R0WT000","TopLayer","FP-MLZ1005-MFG","112.5000mm","114.0500mm","90","Shielded Multilayer Inductor 1uH ±20% 450mA 455mO SMD 0402"
+"J_PWR_IN","1729128","TopLayer","PHOE-1729128-2_V","89.4600mm","84.0000mm","0","PCB Terminal Block, 13.5 A, 400 V, 2-Pin THD, RoHS, Bulk"
+"J6","CON-SMA-EDGE-S","TopLayer","FP-CON-SMA-EDGE-S-MFG","87.5000mm","121.0000mm","0","CONN SMA JACK STR EDGE MNT"
+"J5","61300611121","BottomLayer","61300611121","75.8700mm","89.0780mm","270","THT Vertical Pin Header WR-PHD, Pitch 2.54 mm, Single Row, 6 pins"
+"J4","61300811121","BottomLayer","61300811121","124.1300mm","91.6180mm","270","THT Vertical Pin Header WR-PHD, Pitch 2.54 mm, Single Row, 8 pins"
+"J3","61300511121","BottomLayer","61300511121","75.8700mm","105.5880mm","270","THT Vertical Pin Header WR-PHD, Pitch 2.54 mm, Single Row, 5 pins"
+"J2","61300611121","BottomLayer","61300611121","124.1300mm","110.9220mm","270","THT Vertical Pin Header WR-PHD, Pitch 2.54 mm, Single Row, 6 pins"
+"J1","CON-SMA-EDGE-S","TopLayer","FP-CON-SMA-EDGE-S-MFG","112.5000mm","121.0000mm","0","CONN SMA JACK STR EDGE MNT"
+"C12","885012205037","TopLayer","WCAP-CSGP_0402_L1W0.5H0.5","88.0000mm","115.9999mm","180","Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0402 125C T/R"
+"C11","885012205037","TopLayer","WCAP-CSGP_0402_L1W0.5H0.5","88.0000mm","112.0999mm","180","Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0402 125C T/R"
+"C10","885012205037","TopLayer","WCAP-CSGP_0402_L1W0.5H0.5","83.0001mm","112.0000mm","270","Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0402 125C T/R"
+"C9","885012205037","TopLayer","WCAP-CSGP_0402_L1W0.5H0.5","81.5001mm","112.0000mm","270","Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0402 125C T/R"
+"C8","885012205037","TopLayer","WCAP-CSGP_0402_L1W0.5H0.5","80.0001mm","112.0000mm","270","Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0402 125C T/R"
+"C7","885012205037","TopLayer","WCAP-CSGP_0402_L1W0.5H0.5","78.5002mm","112.0000mm","270","Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0402 125C T/R"
+"C6","885012205037","TopLayer","WCAP-CSGP_0402_L1W0.5H0.5","112.0001mm","116.0001mm","0","Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0402 125C T/R"
+"C5","885012205037","TopLayer","WCAP-CSGP_0402_L1W0.5H0.5","112.0001mm","112.1001mm","0","Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0402 125C T/R"
+"C4","885012205037","TopLayer","WCAP-CSGP_0402_L1W0.5H0.5","88.0001mm","90.0000mm","270","Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0402 125C T/R"
+"C3","885012205037","TopLayer","WCAP-CSGP_0402_L1W0.5H0.5","86.5001mm","90.0000mm","270","Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0402 125C T/R"
+"C2","885012205037","TopLayer","WCAP-CSGP_0402_L1W0.5H0.5","85.0002mm","90.0000mm","270","Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0402 125C T/R"
+"C1","885012205037","TopLayer","WCAP-CSGP_0402_L1W0.5H0.5","83.5003mm","90.0000mm","270","Cap Ceramic 0.1uF 16V X7R 10% Pad SMD 0402 125C T/R"
