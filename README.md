@@ -11,12 +11,20 @@ This repository contains the full PCB design files for the **NiceRF LR2021 Devel
 | **Indication** | 2x Programmable LEDs |
 | **Form Factor** | Arduino Uno R3 Hat |
 
+# Changelogs
+
+## Rev 1.1 (or Rev 111)
+- Rotated the Arduino Header so that the USB port is now on the opposite side of the SMA connectors.
+
+## Rev 1.0 (or Rev 110)
+- Initial release / First version.
+
 # Top View
 
-<img src="./docs/fabrication_files/rev_100/TopView.png" style="width: 35vw;">
+<img src="./docs/fabrication_files/rev_110/TopView.png" style="width: 35vw;">
 
 # Bottom View
 
-<img src="./docs/fabrication_files/rev_100/BottomView.png" style="width: 35vw;">
+<img src="./docs/fabrication_files/rev_110/BottomView.png" style="width: 35vw;">
 
 ---
